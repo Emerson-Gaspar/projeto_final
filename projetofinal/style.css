@@ -35,7 +35,7 @@
 .resumo_produto{
 border: 3px solid var(--verde-escuro);
 width:280px;
-heigth:200px;
+height:200px;
 float:left;
 margin: 10px;
 background-color:var(--verde-escuro);
